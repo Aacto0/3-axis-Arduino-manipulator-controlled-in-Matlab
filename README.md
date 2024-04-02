@@ -1,1 +1,0 @@
-# 3-axis-manipulator-controlled-in-Matlab
